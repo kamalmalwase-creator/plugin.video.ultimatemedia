@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings version="1">
+
+    <section id="plugin.video.ultimatemedia">
+
+        <category id="iptv" label="IPTV Settings">
+
+            <group id="general">
+
+                <setting
+                    id="m3u_url"
+                    type="string"
+                    label="M3U Playlist URL"
+                    default=""
+                />
+
+            </group>
+
+        </category>
+
+    </section>
+
+</settings>
